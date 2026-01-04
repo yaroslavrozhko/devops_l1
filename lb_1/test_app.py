@@ -1,6 +1,6 @@
 import unittest
-from string_ops import analyze_case, get_uppercase_list
-from my_generator import parity_generator
+from devops_practice.lb_1.string_ops import analyze_case, get_uppercase_list
+from devops_practice.lb_1.my_generator import parity_generator
 
 class TestDevOpsTasks(unittest.TestCase):
 

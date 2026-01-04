@@ -1,0 +1,25 @@
+{
+    "Student_Info": {
+        "Full_Name": "Петренко Олександр Петрович",
+        "Group": "IP-11",
+        "Birth_Date": "2006-05-20"
+    },
+    "Real_Performance": {
+        "Subjects": {
+            "DevOps": 85,
+            "Python": 90,
+            "Linux": 78,
+            "Databases": 88
+        },
+        "Average_Score": 85.25
+    },
+    "Desired_Performance": {
+        "Desired_Scores": {
+            "DevOps": 95,
+            "Python": 95,
+            "Linux": 95,
+            "Databases": 95
+        },
+        "Target_Average_Score": 95.0
+    }
+}

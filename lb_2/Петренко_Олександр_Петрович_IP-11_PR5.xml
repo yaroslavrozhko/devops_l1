@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StudentData>
+    <Student_Info>
+        <Full_Name>Петренко Олександр Петрович</Full_Name>
+        <Group>IP-11</Group>
+        <Birth_Date>2006-05-20</Birth_Date>
+    </Student_Info>
+    <Real_Performance>
+        <Subjects>
+            <DevOps>85</DevOps>
+            <Python>90</Python>
+            <Linux>78</Linux>
+            <Databases>88</Databases>
+        </Subjects>
+        <Average_Score>85.25</Average_Score>
+    </Real_Performance>
+    <Desired_Performance>
+        <Desired_Scores>
+            <DevOps>95</DevOps>
+            <Python>95</Python>
+            <Linux>95</Linux>
+            <Databases>95</Databases>
+        </Desired_Scores>
+        <Target_Average_Score>95.0</Target_Average_Score>
+    </Desired_Performance>
+</StudentData>
